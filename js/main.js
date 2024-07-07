@@ -54,6 +54,7 @@
 // ejecutarCalculador();
 
 // SEGUNDA PRE-ENTREGA
+// Definición de productos o servicios con los precios
 const productos = [
     { nombre: 'HEAD-Speed-PRO-Legend', precio: 300000 },
     { nombre: 'WILSON-Pro-Staff-97', precio: 250000 },
